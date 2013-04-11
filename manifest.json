@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Whatever",
+  "description": "best extension in the whole world",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["whatever.js"]
+    }
+  ]
+}
