@@ -4,10 +4,14 @@
 Oh yeah. Exactly what you're thinking.
 -----------------------
 
-### Installation
+### What's this?
 
-See xxx
+Keep copying and pasting the "whatever" ascii smiley? grab this extension, type ";;;" and let the magic happen.
 
-### How awesome is this
+### Wow! works in every site? How?
 
-A lot, go grab the extension.
+That's what magic does, magical stuff. Seriously, it's dead simple check the code.
+
+### ME WANTS!!
+
+Go grab the extension now!!
