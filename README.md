@@ -1,4 +1,4 @@
-# ¯\_(ツ)_/¯ Chrome Extension
+# ¯\\_(ツ)_/¯ Chrome Extension
 
 
 Oh yeah. Exactly what you're thiking.
