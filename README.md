@@ -1,7 +1,7 @@
 # ¯\\_(ツ)_/¯ Chrome Extension
 
 
-Oh yeah. Exactly what you're thiking.
+Oh yeah. Exactly what you're thinking.
 -----------------------
 
 ### Installation
