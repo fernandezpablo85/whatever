@@ -14,4 +14,4 @@ That's what magic does, magical stuff. Seriously, it's dead simple check the cod
 
 ### ME WANTS!!
 
-Go grab the extension now!!
+[Go grab the extension now!!]("https://chrome.google.com/webstore/detail/whatever/ledcbgmnphjbjapifigbejbdpnidjflh?hl=en&gl=AR")
